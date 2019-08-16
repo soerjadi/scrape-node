@@ -1,0 +1,14 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "This is for assignment on engineering.cermati.com",
+  "main": "solution.js",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "author": "surya",
+  "email": "soerja.610@gmail.com"
+}
